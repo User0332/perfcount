@@ -7,8 +7,25 @@ name = "perfcount"
 authors = [{name = "Carl Furtado", email = "carlzfurtado@gmail.com"}]
 readme = "README.md"
 license = {file = "LICENSE"}
-classifiers = ["License :: OSI Approved :: MIT License"]
+classifiers = [
+	"License :: OSI Approved :: MIT License",
+	"Programming Language :: Python",
+	"Programming Language :: Python :: 3",
+	"Operating System :: OS Independent",
+	"Intended Audience :: Developers",
+	"Topic :: Software Development :: Debuggers",
+	"Topic :: Software Development :: Testing",
+	"Topic :: Software Development :: Testing :: Acceptance"
+]
 dynamic = ["version", "description"]
+keywords = [
+	"testing",
+	"performance",
+	"timing",
+	"timeout",
+	"debugger",
+	"acceptance"
+]
 
 [project.urls]
 Home = "https://github.com/User0332/perfcount"

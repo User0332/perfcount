@@ -1,6 +1,6 @@
 """Useful Python library for performance testing that contains multiple function decorators"""
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import time
 import threading
